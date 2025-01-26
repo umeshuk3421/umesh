@@ -50,3 +50,4 @@ I am a **DevOps Engineer** with a strong focus on automating infrastructure and 
 ---
 
 Feel free to explore my repositories, contribute, or connect with me! Let’s collaborate and build something amazing. 🚀
+![image](https://github.com/user-attachments/assets/fb1308f4-c4d2-4338-80ec-28c12b986f12)
